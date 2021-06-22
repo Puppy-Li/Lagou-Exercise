@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/CourseExercise/results/
+/CourseExercise/allure-report/
