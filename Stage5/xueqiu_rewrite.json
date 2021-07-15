@@ -1,0 +1,28 @@
+{
+  "data": [{
+    "symbol": "BABA",
+    "current": 195.32,
+    "percent": 3.59,
+    "chg": 6.76,
+    "timestamp": 15852522920586,
+    "volume": 15426104,
+    "amount": 2.973767199E9,
+    "market_capital": 5.23989462806E11,
+    "float_market_capital": null,
+    "turnover_rate": 0.58,
+    "amplitude": 4.62,
+    "open": 188.64,
+    "last_close": 188.56,
+    "high": 196.32,
+    "low": 187.6,
+    "avg_price": 192.775,
+    "trade_volume": null,
+    "side": 0,
+    "is_trade": false,
+    "level": 3,
+    "trade_session": 2,
+    "trade_type": null,
+    "current_year_percent": -7.91
+  }
+  ]
+}
